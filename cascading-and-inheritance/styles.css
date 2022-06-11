@@ -1,0 +1,19 @@
+div
+{
+    font-size: 14px;
+}
+div p
+{
+    background-color: gray;
+}
+#content
+{
+    background-color: Fuchsia;
+}
+p
+{
+    background-color: green;
+    font-size: 22px;
+    border-style: solid;
+    border-width: 2px;
+}
